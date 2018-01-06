@@ -64,10 +64,8 @@ yi-torus.json
     {"id": "61", "group": 3},
     {"id": "62", "group": 3},
     {"id": "63", "group": 7},
-    {"id": "64", "group": 7},
-
-
-    //...
+    {"id": "64", "group": 7}
+    
   ],
   "links": [
     {"source": "1", "target": "44", "value": 1},
